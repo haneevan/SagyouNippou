@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.SagyouNippou.app-mergeDebugResources-62:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\seigi\\.gradle\\caches\\8.13\\transforms\\e8a75e492ef019c5a7172b87b39e1cbc\\transformed\\appcompat-1.7.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
